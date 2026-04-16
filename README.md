@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Carlos Dev 😁
+## Bem-vindo(a) ao perfil do Carlos Augusto 😁
 
 <div>
    <a href="https://github.com/cafss-dev">
@@ -18,6 +18,6 @@
 
 <div> 
   <a href="https://instagram.com/augustoz08" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:cafss.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:cafss.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlos-augusto-ferreira-silva-sousa-7b025238b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
